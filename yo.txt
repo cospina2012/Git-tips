@@ -1,3 +1,5 @@
 Sample text file for git-tips
 
 Christina's edits to the yo text file
+
+Here is more exciting text
